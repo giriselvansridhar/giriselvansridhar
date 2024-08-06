@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @giriselvansridhar
 - 👀 I’m interested in Python, .net, Angular, Machine Learning
-- 🌱 I’m currently learning ASP.net
+- 🌱 I’m currently learning DSA, Data Science
 - 📫 How to reach me Insta(@sgirishelvan)
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: I don't know any language other than English, Tamil
